@@ -1,0 +1,33 @@
+{
+  "name": "web3dappstarter-kit",
+  "version": "1.0.0",
+  "description": "Start your Web3 DApp projects with a comprehensive starter kit, providing essential tools and resources.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/03dapper30/web3dappstarter-kit"
+  },
+  "author": "03dapper30",
+  "license": "MIT",
+  "dependencies": {
+    "web3dappstarter-kit": "1.0.0",
+    "web3dappstarter-kit-protool": "1.0.0",
+    "babel-core": "1.0.0",
+    "web3-utils": "1.0.0",
+    "firebase": "1.0.0",
+    "express": "1.0.0",
+    "supertest": "1.0.0",
+    "sequelize": "1.0.0",
+    "validator": "1.0.0",
+    "ethers": "1.0.0",
+    "nodemon": "1.0.0",
+    "mongoose": "1.0.0",
+    "underscore": "1.0.0",
+    "moment": "1.0.0",
+    "sinon": "1.0.0",
+    "react-redux": "1.0.0"
+  }
+}
